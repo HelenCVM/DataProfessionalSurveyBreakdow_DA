@@ -7,10 +7,10 @@ Dentro del analisis se evidencio que las mujeres encuestadas ganaban mas que los
 
 
 Muetra de la poblacion en linkedin que realizo la encuesta: 630 profesionales
-<hr size="1px" color="black" />
+<hr size="0.4px" color="black" />
 
 Resultados segun la encuesta:
-<hr size="1px" color="black" />
+<hr size="0.4px" color="black" />
 -Python es el lenguaje de programacion mas utilizado
 
 -Los cientificos de datos ganan o podrian ganar mas en el mercado
