@@ -23,5 +23,5 @@ ________________________________________________________________________________
 
 Visualizacion:
 <hr>
-<iframe title="Data Professional Survey Breakdown" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmE2ZDU2NTktMjJlOS00ZWIwLTg1MjQtMTU5MzYzOGZmNTVjIiwidCI6ImQ2NDM4MDgyLWViOTgtNGMzZi04Mzk3LTVkYmRmZTQwMzZmZCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+<h4> Panel de Power Bi:</h4> [Link]([https://github.com/HelenCVM/Reclutacion-analistaDeDatos/blob/main/datos-sin-procesar.xlsx](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/powerbi.html) 
 Nota:Proyecto realizado en conjunto con el " Data Analyst Bootcamp" de Alex Freberg
