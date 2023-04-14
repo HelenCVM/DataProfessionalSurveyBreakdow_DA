@@ -23,5 +23,7 @@ ________________________________________________________________________________
 
 Visualizacion:
 <hr>
-<h4> Panel de Power Bi:</h4> [Link](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/powerbi.html) 
+![Tablero de profesioanles de la data](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/Data%20Professional%20Survey%20Breakdown.png)
+ 
+  
 Nota:Proyecto realizado en conjunto con el " Data Analyst Bootcamp" de Alex Freberg
