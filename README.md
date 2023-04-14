@@ -23,5 +23,5 @@ ________________________________________________________________________________
 
 Visualizacion:
 <hr>
-<h4> Panel de Power Bi:</h4> [Link]([https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/powerbi.html]) 
+<h4> Panel de Power Bi:</h4> [Link](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/powerbi.html) 
 Nota:Proyecto realizado en conjunto con el " Data Analyst Bootcamp" de Alex Freberg
