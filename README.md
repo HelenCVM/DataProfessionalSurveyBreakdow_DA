@@ -25,5 +25,5 @@ Visualizacion:
 <hr>
 ![Tablero de profesioanles de la data](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/DataPSB.png)
  
-  
+![Tablero de ventas por tienda](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/DataPSB.png)
 Nota:Proyecto realizado en conjunto con el " Data Analyst Bootcamp" de Alex Freberg
