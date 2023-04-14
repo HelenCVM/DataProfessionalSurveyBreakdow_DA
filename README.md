@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 Visualizacion:
 <hr>
-![Tablero de profesioanles de la data](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/Data%20Professional%20Survey%20Breakdown.png)
+![Tablero de profesioanles de la data](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/DataPSB.png)
  
   
 Nota:Proyecto realizado en conjunto con el " Data Analyst Bootcamp" de Alex Freberg
