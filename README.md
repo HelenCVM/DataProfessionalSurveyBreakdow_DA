@@ -5,13 +5,11 @@ El proyecto muestra un analisis a profesionales de los datos de modo abierto, es
 Tambien poder observar y analizar los lenguajes de programacion predominantes y los preferidos por los profesionales en el mundo de los datos.
 Dentro del analisis se evidencio que las mujeres encuestadas ganaban mas que los hombres. Lo cual es interesante y quizas da ha entender que hay mas mujeres que se estan abriendo paso en el mundo de la data. Aunque no es muy cerrada la brecha de separacion.
 
-## 📖 Guide
-
 ## Muetra de la poblacion en linkedin que realizo la encuesta: 630 profesionales
-____________________________________________________________________________________________________________________________________________________
 
-Resultados segun la encuesta:
-____________________________________________________________________________________________________________________________________________________
+
+## Resultados segun la encuesta:
+
 -Python es el lenguaje de programacion mas utilizado
 
 -Los cientificos de datos ganan o podrian ganar mas en el mercado
@@ -27,7 +25,7 @@ Datos sin procesar:
 _Datos_ [ProfesionalesDATA:Excel](https://github.com/HelenCVM/DataProfessionalSurveyBreakdow_DA/blob/main/Power%20BI%20-%20Final%20Project.xlsx) 
 
 
-Visualizacion:
+## Visualizacion:
 <hr>
 
 
