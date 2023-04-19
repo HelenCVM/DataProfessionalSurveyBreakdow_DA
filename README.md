@@ -5,6 +5,7 @@ El proyecto muestra un analisis a profesionales de los datos de modo abierto, es
 Tambien poder observar y analizar los lenguajes de programacion predominantes y los preferidos por los profesionales en el mundo de los datos.
 Dentro del analisis se evidencio que las mujeres encuestadas ganaban mas que los hombres. Lo cual es interesante y quizas da ha entender que hay mas mujeres que se estan abriendo paso en el mundo de la data. Aunque no es muy cerrada la brecha de separacion.
 
+## 📖 Guide
 
 Muetra de la poblacion en linkedin que realizo la encuesta: 630 profesionales
 ____________________________________________________________________________________________________________________________________________________
