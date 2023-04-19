@@ -7,7 +7,7 @@ Dentro del analisis se evidencio que las mujeres encuestadas ganaban mas que los
 
 ## 📖 Guide
 
-Muetra de la poblacion en linkedin que realizo la encuesta: 630 profesionales
+## Muetra de la poblacion en linkedin que realizo la encuesta: 630 profesionales
 ____________________________________________________________________________________________________________________________________________________
 
 Resultados segun la encuesta:
